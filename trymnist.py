@@ -20,7 +20,7 @@ batch = 128
 iters = 5000
 rate = .01
 momentum = .9
-decay = .0
+decay = .01
 
 m = softmax_model()
 print("training...")
